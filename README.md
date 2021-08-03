@@ -38,6 +38,13 @@ For NY, you sign up for your exam by
 - Going to the [NY Department of State Website that covers the Real Estate Salesperson](https://dos.ny.gov/real-estate-salesperson)
 - You will then [sign up for the written exam here](https://appext20.dos.ny.gov/nydos/registration.do?from=loginPage). Notice that you do need your NYS ID, so if you don't have that now, you should definitely get one!
 
+Some tips for the state exam:
+
+- Show up very early! There will likely be a line, and they will start at the exam time sharply, without waiting for people
+- They will not provide calculators so make sure you have your own
+- Bring an eraser so you can erase mistakes
+- Make sure to NOT WRITE ON THE EXAM, or you may be disqualified from the exam
+
 ### Find a Sponsoring Broker
 
 You can actually do this before you finish the course, but I think it helps to know more about the field before doing this. Maybe consider this step when you're 75% the way through your studies.
