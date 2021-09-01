@@ -49,10 +49,24 @@ Some tips for the state exam:
 
 You can actually do this before you finish the course, but I think it helps to know more about the field before doing this. Maybe consider this step when you're 75% the way through your studies.
 
-Finding a Broker is very open to your desires. If you do full time, there are likely more brokers that will take you.
+Finding a Broker is very open to your desires. If you do full time, there are likely more brokers that will take you, since most places like to have dedicated agents.
 
-TBD
+There are some things to consider when finding a sponsoring broker:
+
+- Is the CEO / manager someone that you respect and can help you?
+- If there is a monthly fee, is it worth it?
+- If there is 100% commission, do they give you enough support where it's worth it for you?
+- Does your sponsoring broker have a good enough reputation in the area that you want to be dealing in?
+- If you want to do part time, is the sponsoring broker ok with that?
 
 ### Getting your License!
 
-TBD
+Once you have a sponsoring broker, they will walk you through all the steps you need to get your license. Usually it involves something like
+
+- Signing an independent contractor agreement
+- Becoming a member of REBNY ($325-400)
+- Paying initiation fees to the company
+
+### Beyond
+
+Congrats! You are now a licensed real estate salesperson. Go on fancy showings, fun tours, and networking -- the world is yours!
