@@ -4,6 +4,11 @@ One of the first steps to working in the Real Estate industry is to become a lic
 
 While there are many guides on this process, and an official state website for this, the steps are not always clear, and actionable items are not always clear. This guide is meant as a journal but also as a tutorial for others who are looking to get into real estate and don't have a mentor to help them with the process.
 
+# Quick Links
+
+- [Process for getting your license](#the-steps) (continue reading below!)
+- [Closing Contracts](./closing.md)
+
 ## The Steps
 
 Let's go over what you have to do step by step to become a licensed real estate salesperson.
