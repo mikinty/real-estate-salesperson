@@ -7,7 +7,8 @@ While there are many guides on this process, and an official state website for t
 # Quick Links
 
 - [Process for getting your license](#the-steps) (continue reading below!)
-- [Closing Contracts](./closing.md)
+- [Closing Contracts](./closing.md): what you need to commence a closing (and potentially collect your commission)
+- [Management Companies](./mgmt_companies.md): Some management companies in NYC and how they make deals with agents like you
 
 ## The Steps
 
