@@ -9,6 +9,7 @@ While there are many guides on this process, and an official state website for t
 - [Process for getting your license](#the-steps) (continue reading below!)
 - [Closing Contracts](./closing.md): what you need to commence a closing (and potentially collect your commission)
 - [Management Companies](./mgmt_companies.md): Some management companies in NYC and how they make deals with agents like you
+- [Online Sources for Listings](./online_sources.md): Where you can go online to find listings for your client
 
 ## The Steps
 
@@ -22,7 +23,7 @@ For NY specifically, I also needed to get a NY ID, which was a curveball since I
 
 ### Register and complete an approved 75-hour real estate course for your state.
 
-There are many options here, and many of them are good. 
+There are many options here, and many of them are good.
 
   - For me, I was just self-studying, so I just needed a textbook essentially. [Real Estate Express](https://www.talkable.com/x/yn6IDa) provided me with an affordable option, costing around $180 for the course, so I was very happy with that. I do have to say their UI isn't super up-to-date, but it works and is very straightforward. Also quizzes at the end of each chapter was very helpful.
   - I think [PrepAgent](https://www.prepagent.com/sign-up) is a great option here, as they have great videos online on Youtube, have modern UI, and seem to have a good support.
@@ -31,7 +32,7 @@ The way the course works is that there are a bunch of chapters, covering both Na
 
 At the end of the course, after you have completed all the chapters and completed the quizzes, you will be able to schedule and take the final exam. I thought this was the officia Real Estate Exam, but I was a bit disappointed when I learned I still had to take another exam (more about that later...), but hey, that's why I'm writing this guide.
 
-Once you pass the course exam, you have completed the course officially, which means the 75-hour course requirement is done. 
+Once you pass the course exam, you have completed the course officially, which means the 75-hour course requirement is done.
 
 After the exam, you still have to submit an affidavit of course completion to the course provider, who will then send you a certificate that you will need to use for getting your license.
 
