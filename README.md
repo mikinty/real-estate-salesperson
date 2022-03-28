@@ -41,7 +41,7 @@ Apparently, most courses are harder than the state exam so they prepare you bett
 
 For NY, you sign up for your exam by
 
-- Going to the [NY Department of State Website that covers the Real Estate Salesperson](https://dos.ny.gov/real-estate-salesperson)
+- Going to the [NY Department of State Website that covers the Real Estate Salesperson](https://dos.ny.gov/real-estate-salesperson): This will tell you what to bring to the exam, what to expect, and rules.
 - You will then [sign up for the written exam here](https://appext20.dos.ny.gov/nydos/registration.do?from=loginPage). Notice that you do need your NYS ID, so if you don't have that now, you should definitely get one!
 
 Some tips for the state exam:
