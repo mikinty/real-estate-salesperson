@@ -76,4 +76,8 @@ Some options:
 - https://outpost-club.com
 - https://junehomes.com/
 
+## Finding Roommates
 
+Generally, finding roommates through friends is a better bet than random people, _but_ if you are out of ideas or sources, you can try online sources.
+
+I have seen in the real estate circle that [EXR COnnect](https://www.exrny.com/connect) has been recommended to clients, although I'm not sure how well it works...so beware that yonder may contain dragons.
