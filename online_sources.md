@@ -17,7 +17,7 @@ Here we review some of the most common ways to find listings, some thoughts abou
 
 ## [OLR](https://broker.olr.com/)
 
-The official
+The official source of listings for Brokers, by Brokers.
 
 As brokers, we are supposed to use OLR to list everything. But because the platform has such crappy UI and is relatively difficult to use, it's not that great for rentals. For sales, it's a bit better, but other platforms like [StreetEasy](#streeteasy) are much more popular by customer traffic, and therefore are updated by brokers more often.
 
@@ -27,7 +27,7 @@ Popular to the common masses, and therefore, also common to agents for the atten
 
 The search tools aren't amazing, but generally are good enough for the consumer. This is usually to the fault of the listing agent, who doesn't put all the relevant details of the listing. This also means that listing quality is also up to how much effort the agent puts into it. One red flag I've found is that if a listing has very few photos, with extensive virtual staging, and no public video or floor plan, it's likely that there is some sort of coverup happening to prevent you from seeing something. Their goal is to get you to go in person and then consider it a bit more. I despise this practice and wish agents were more honest about their listings and prevented people from making disappointing trips.
 
-There are scammers on the site, which is unfortunate since StreetEasy can guard against it with more rigorous agent verification.
+There are scammers on the site, which is unfortunate since StreetEasy can guard against it with more rigorous agent verification. A common example of a scam is if an agent says to "directly Zelle them the money to 'secure' the listing before it is gone." Don't fall for this, and never send money to anyone until you have signed a lease, seen the place in person, and met the agent that is listing the property.
 
 ## [Craigslist](https://newyork.craigslist.org/search/apa)
 
