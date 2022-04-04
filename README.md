@@ -10,6 +10,8 @@ While there are many guides on this process, and an official state website for t
 - [Closing Contracts](./closing.md): what you need to commence a closing (and potentially collect your commission)
 - [Management Companies](./mgmt_companies.md): Some management companies in NYC and how they make deals with agents like you
 - [Online Sources for Listings](./online_sources.md): Where you can go online to find listings for your client
+- [How I Charge my Clients](./collecting_commission.md): My policies I send to my clients for what I charge them for real estate services
+- [Advice](./advice.md): I am still relatively new to the industry, but I'd like to provide some insight into what I've noticed while being an agent.
 
 ## The Steps
 
@@ -25,8 +27,8 @@ For NY specifically, I also needed to get a NY ID, which was a curveball since I
 
 There are many options here, and many of them are good.
 
-  - For me, I was just self-studying, so I just needed a textbook essentially. [Real Estate Express](https://www.talkable.com/x/yn6IDa) provided me with an affordable option, costing around $180 for the course, so I was very happy with that. I do have to say their UI isn't super up-to-date, but it works and is very straightforward. Also quizzes at the end of each chapter was very helpful.
-  - I think [PrepAgent](https://www.prepagent.com/sign-up) is a great option here, as they have great videos online on Youtube, have modern UI, and seem to have a good support.
+- For me, I was just self-studying, so I just needed a textbook essentially. [Real Estate Express](https://www.talkable.com/x/yn6IDa) provided me with an affordable option, costing around $180 for the course, so I was very happy with that. I do have to say their UI isn't super up-to-date, but it works and is very straightforward. Also quizzes at the end of each chapter was very helpful.
+- I think [PrepAgent](https://www.prepagent.com/sign-up) is a great option here, as they have great videos online on Youtube, have modern UI, and seem to have a good support.
 
 The way the course works is that there are a bunch of chapters, covering both National and State Real Estate content. For NY, each chapter has a minimum amount of time you have to spend in the chapter, so if you finish early, you will have to wait around a bit. However, if you pay attention and study the chapter at a reasonable pace, you probably won't have much time to spare anyway.
 
@@ -42,7 +44,7 @@ Apparently, most courses are harder than the state exam so they prepare you bett
 
 For NY, you sign up for your exam by
 
-- Going to the [NY Department of State Website that covers the Real Estate Salesperson](https://dos.ny.gov/real-estate-salesperson): This will tell you what to bring to the exam, what to expect, and rules.
+- Going to the [NY Department of State Website that covers the Real Estate Salesperson](https://dos.ny.gov/real-estate-salesperson): This will tell you **what to bring to the exam**, what to expect, and rules.
 - You will then [sign up for the written exam here](https://appext20.dos.ny.gov/nydos/registration.do?from=loginPage). Notice that you do need your NYS ID, so if you don't have that now, you should definitely get one!
 
 Some tips for the state exam:
