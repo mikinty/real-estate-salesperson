@@ -14,10 +14,11 @@ Generally, my friends / clients are willing to do some work themselves, searchin
 
 Fundamentally, you're collecting commission because you are providing someone with value that they otherwise wouldn't be able to get without you.
 
-## Factors for affecting my rates
+### Services I can Provide
 
 - **Asking me to visit properties for them**: This is usually something that out-of-state clients ask from me.
 - **Asking for a large search that takes more than a few hours for me to do**: I am searching and working hard to curate a high-quality list of options for you.
+- **Scam Prevention**: While normal people often can get scammed, having an agent represent you or just show up will usually have the scammers stay away. This is especially true on sites like Craigslist, where scammers will not bother responding to an agent email, because they know they can't scam them.
 
 ## Some Notes
 
