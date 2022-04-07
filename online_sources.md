@@ -76,6 +76,15 @@ Some options:
 - https://outpost-club.com
 - https://junehomes.com/
 
+## Temporary Housing
+
+Normal leases are usually at lesat 12 months, which means if you're just visiting or want a shorter lease, it's very hard to find places to stay.
+
+Here are some options for shorter leases:
+
+- [NYU Summer Housing](https://www.law.nyu.edu/housing/summerliving): NYU provides housing in the summer for pretty reasonable rates, something like 2-3k a month depending on what you want. The location is pretty great, as it is near Washington Square Park.
+- [Leasebreak](#leasebreak): as mentioned earlier, these are leases that people are usually trying to get out of, so there are shorter options here.
+
 ## Finding Roommates
 
 Generally, finding roommates through friends is a better bet than random people, _but_ if you are out of ideas or sources, you can try online sources.
