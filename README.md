@@ -11,7 +11,8 @@ While there are many guides on this process, and an official state website for t
 - [Management Companies](./mgmt_companies.md): Some management companies in NYC and how they make deals with agents like you
 - [Online Sources for Listings](./online_sources.md): Where you can go online to find listings for your client
 - [How I Charge my Clients](./collecting_commission.md): My policies I send to my clients for what I charge them for real estate services
-- [Advice](./advice.md): I am still relatively new to the industry, but I'd like to provide some insight into what I've noticed while being an agent.
+- [Advice for Budding Agents](./advice.md): I am still relatively new to the industry, but I'd like to provide some insight into what I've noticed while being an agent.
+- [Advice for Renters](./advice_renters.md): Advice I tell my customers
 
 ## The Steps
 
