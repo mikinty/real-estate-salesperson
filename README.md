@@ -14,6 +14,7 @@ While there are many guides on this process, and an official state website for t
 - [Advice for Budding Agents](./advice.md): I am still relatively new to the industry, but I'd like to provide some insight into what I've noticed while being an agent.
 - [Advice for Renters](./advice_renters.md): Advice I tell my customers
 - [Process of Buying](https://www.elikarealestate.com/purchasing-process/)
+- [How to Buy a Mansion](./mansion.md): Coming up with the ideal house assuming infinite budget
 
 ## The Steps
 
