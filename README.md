@@ -82,3 +82,11 @@ Once you have a sponsoring broker, they will walk you through all the steps you 
 ### Beyond
 
 Congrats! You are now a licensed real estate salesperson. Go on fancy showings, fun tours, and networking -- the world is yours!
+
+### Continuing Education
+
+Ah the joys of getting your RE license and forgetting you have to maintain it. Every state ie different, but you can find the [NY RE Continuing Education Requirements here](https://www.kapre.com/real-estate/new-york/state-requirements).
+For NY: "Renewal periods are every two years from the date printed on the license. Licensees are eligible to renew up to three months prior to the expiration date."
+And usually you need 22.5 hrs of CE Credit.
+
+After completing the course, you can renew your license on eAccessNY 3 months from the expiration date (so not too early).
