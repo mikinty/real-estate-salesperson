@@ -122,6 +122,10 @@ If the property is marketed too much towards one audience, it will be hard to se
 
 For families, kid safety is very important. Having places where kids can climb, fall, drown (water), are not desirable.
 
+## When Buying for Yourself
+
+1. Always walk through the property twice, as a guest, and as an owner (day to day)
+
 ## Extras
 
 - Styles of houses: French Normandy, Spanish, Italian, Mediterranean.
